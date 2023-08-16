@@ -1,11 +1,10 @@
-# Generate ReadMe app
+# this
   
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Description
   
- This application allows the user to create a 
-dynamic readme page
+ this
 
   
   ## Table of Contents (Optional)
@@ -22,11 +21,11 @@ dynamic readme page
   
   ## Installation
   
- undefined
+ this
   
   ## Usage
   
- undefined
+ this
       
 
   
@@ -36,16 +35,18 @@ dynamic readme page
  
   ## Contribution
 
-  undefined
+  phil
+
 
   
   ## Tests
   
-  undefined
+  all
+
 
   ## Questions
   <ul>
   <li> <a href="https://github.com/ekovalchick"> Github Profile </li>
-  <li> <a href="mailto:ekovalchick97@gmail.com"> Email Me </li>
+  <li> <a href="mailto:ekovalchick@gmail.com"> Email Me </li>
   </ul>
 

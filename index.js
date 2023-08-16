@@ -37,6 +37,26 @@ const questions = [
         name:"description"
     },
     {
+        type: "editor",
+        message: "What are the installation directions?",
+        name:"installation"
+    },
+    {
+        type: "editor",
+        message: "What is this app used for?",
+        name:"usage"
+    },
+    {
+        type: "editor",
+        message: "Who contributed to this project?",
+        name:"contribution"
+    },
+    {
+        type: "editor",
+        message: "What tests are applicable to this project?",
+        name:"tests"
+    },
+    {
         type: "list",
         message: "Choose from one of the following license:",
         choices:["MIT", "IBM", "Apache", "No License"],
