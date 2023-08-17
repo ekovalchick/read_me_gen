@@ -1,11 +1,10 @@
-# this
+# readme
   
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
   
- this
-
+ test
   
   ## Table of Contents (Optional)
   
@@ -21,32 +20,30 @@
   
   ## Installation
   
- this
+ test
   
   ## Usage
   
- this
+ test
       
 
   
   ## License
   
- undefined
+ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  
   ## Contribution
 
-  phil
-
+  test
 
   
   ## Tests
   
-  all
-
+  test
 
   ## Questions
   <ul>
   <li> <a href="https://github.com/ekovalchick"> Github Profile </li>
-  <li> <a href="mailto:ekovalchick@gmail.com"> Email Me </li>
+  <li> <a href="mailto:ekova@gmail"> Email Me </li>
   </ul>
 
