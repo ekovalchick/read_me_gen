@@ -1,10 +1,14 @@
-# readme
+# ReadMe App
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
   
- test
+ This project allows you to dynamically create a readme file. 
+The terminal will prompt the user specific questions regarding a typical readMe file.
+The user will then fill out each question specifically towards their project they will be using this app for.
+In the output file a personalized readme will be created.
+
   
   ## Table of Contents (Optional)
   
@@ -20,11 +24,11 @@
   
   ## Installation
   
- test
+ N/A
   
   ## Usage
   
- test
+ This app is used to streamline the readme creation experience so the programmer can spend more time on the code and less on the overall readme creation.
       
 
   
@@ -34,16 +38,19 @@
  
   ## Contribution
 
-  test
+  N/A
 
   
   ## Tests
   
-  test
+  1. Run node index.js
+2. answer the prompts provided in the terminal
+3. go to the output folder to see the readme created
+
 
   ## Questions
   <ul>
   <li> <a href="https://github.com/ekovalchick"> Github Profile </li>
-  <li> <a href="mailto:ekova@gmail"> Email Me </li>
+  <li> <a href="mailto:ekoval@gmail.com"> Email Me </li>
   </ul>
 
