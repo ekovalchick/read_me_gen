@@ -1,13 +1,15 @@
-# ReadMe App
+# SVG_Logo_Gen
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
   
- This project allows you to dynamically create a readme file. 
-The terminal will prompt the user specific questions regarding a typical readMe file.
-The user will then fill out each question specifically towards their project they will be using this app for.
-In the output file a personalized readme will be created.
+ This project allows the user to creat a 3 letter SVG logo generator. 
+The user will br prompted with lists and written responses in the terminal to design the logo.
+After the user selects the desired design, a new svg file will be created with the logo.
+The biggest lesson I learned from this is how to create a test using node jest. 
+I created this app to test my knowledge on node.JS and understand how to create tests.
+
 
   
   ## Table of Contents (Optional)
@@ -24,11 +26,12 @@ In the output file a personalized readme will be created.
   
   ## Installation
   
- N/A
+ If node modules is not present, type npm i to download node modules. 
+Also, if jest does not work when running the test type npm jest to download.
   
   ## Usage
   
- This app is used to streamline the readme creation experience so the programmer can spend more time on the code and less on the overall readme creation.
+ This app is used to create an SVG 3-letter logo with ease using the prompts in the VS terminal. 
       
 
   
@@ -43,14 +46,11 @@ In the output file a personalized readme will be created.
   
   ## Tests
   
-  1. Run node index.js
-2. answer the prompts provided in the terminal
-3. go to the output folder to see the readme created
-
+  Jest test is used for this project. open the integrated terminal, tpye npm run test to see if all 3 tests (text color, shape, shape color) tests succeed.
 
   ## Questions
   <ul>
   <li> <a href="https://github.com/ekovalchick"> Github Profile </li>
-  <li> <a href="mailto:ekoval@gmail.com"> Email Me </li>
+  <li> <a href="mailto:ekovalchick97@gmail.com"> Email Me </li>
   </ul>
 
